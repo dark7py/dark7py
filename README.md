@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dark7py
+- 👋 Hi, I’m Matvey
 - 👀 I’m interested in Web programming, gameDev and ML
 - 🌱 I’m currently learning React, Next.js, Typescript
 - 📫 How to reach me:  https://t.me/matvey_q,  https://vk.com/matveyy_m
