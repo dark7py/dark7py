@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dark7py
 - 👀 I’m interested in Web programming, gameDev and ML
-- 🌱 I’m currently learning c#, JS, python
-- 💞️ I’m looking to collaborate on c#, JS, html/css
+- 🌱 I’m currently learning React, Next.js, Typescript
 - 📫 How to reach me:  https://t.me/matvey_q,  https://vk.com/matveyy_m
 
 <!---
